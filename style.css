@@ -1,0 +1,142 @@
+
+ 
+ .center{
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    /* margin-top: 100px; */
+    /* width: 300px; */
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top:100px;
+}
+
+.content{
+    display: block;
+   margin-left:25%;
+   margin-right: 25%;
+   padding-right: 10px;
+ 
+
+}
+
+.content a{
+    
+    margin-left:auto;
+    margin-right: auto;
+text-decoration-style: none;
+color: #000;
+}
+input[type='text']{
+    display: block;
+    margin-right: auto;
+    margin-left:auto;
+    border-radius: 20px;
+    border:1px solid #ccc;
+    width:50%;
+    padding: 10px;
+
+}
+
+button{
+    border:none;
+    padding:10px;
+    margin:10px;
+    border-radius: 20px; 
+    display: inline; 
+
+}
+#profile{
+float: right;
+border-radius:50%;
+margin-left: 50px;
+
+margin-bottom: 200px !important; 
+
+margin-top: 0px;
+}
+h1{
+ float: right; 
+ font-size: 10px;
+ margin-left: 20px;
+
+ 
+} 
+ul li{
+    
+    padding-left: 10px;
+    display: inline;
+}
+li a{
+    text-decoration: none;
+}
+.light{
+    background-color: rgb(192, 192, 192);
+    margin-top: 300px
+}
+.aside{
+    float: right;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+a{
+    text-decoration: none;
+} 
+
+/* .light{
+    
+  
+    background-color: rgb(231, 225, 225);
+    margin-left: 0px;
+  
+    
+margin-top: 300px;
+float:right
+}
+b{
+    padding-left: 20px;
+    float: right;
+} */
+/* h2{
+    float: left;
+    font-size: 15px;
+    margin-right: 25px;
+    margin-bottom: 0px;
+    margin-top: 300px;
+    margin-left: 0px;
+text-decoration-style: none;
+    
+} */
+
+
+
+
+
+
+
+/* a{
+    margin-top: 20px;           
+    font-size: 12px;
+
+
+}
+h1{
+    font-size: 13px;
+    color: purple;
+}
+button{
+    border: 5px;
+    padding: 2px;
+    
+}
+span{
+    color: black;
+}
+div{ 
+
+}*/
